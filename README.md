@@ -1,4 +1,4 @@
-# PROYECTO: 
+# PROYECTO: CICADA'S SONG
 
 (Basado en Repositorio CMI24, incluye card personal)
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
@@ -8,62 +8,44 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 1 Datos 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : Cicada's Song
 
 **Web:**   https://    (url github.io)
 
 **Github:** https://    (url https://github.com/.... )
 
-**Autor:**  (Nombre apellidos)
+**Autor:** Eva Vázquez Marín
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : Un juego compuesto de varios minijuegos independientes con temática de cigarras.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![portadaproyecto](https://github.com/cicadakingdom/cicadakingdom.github.io/assets/170508076/8a6e2d8f-8a34-490b-97a8-20cbeee3c603)
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+
+**Resolución:** 800x600px responsivo/o tamaño fijo
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-**Tamaño proyecto:** XXMB 
+**Tamaño proyecto:** 155MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
         (en caso de dudas revisar https://chooser-beta.creativecommons.org/) 
 
-**Fecha** : xx/xx/2024
+**Fecha** : 29/05/2024
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
-
 ### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+![esquemadenavegacionjuego](https://github.com/cicadakingdom/cicadakingdom.github.io/assets/170508076/f6edc08b-cd3a-4758-b740-637c9848d463)
 
 
 # 3. Metodología
