@@ -10,9 +10,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Cicada's Song
 
-**Web:**   https://    (url github.io)
+**Web:** https://cicadakingdom.github.io/Proyecto/
 
-**Github:** https://    (url https://github.com/.... )
+**Github:** https://github.com/cicadakingdom/cicadakingdom.github.io
 
 **Autor:** Eva Vázquez Marín
 
@@ -37,7 +37,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
+- Github: https://github.com/cicadakingdom
 
 # 2. Memoria del proyecto 
 
