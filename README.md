@@ -75,7 +75,7 @@ Mi idea para el juego surgió debido a que había descubierto que este año, en 
 
 **Publico / audiencia**
 
-- Orientado a todos los públicos, ya que se puede aprender sobre las cigarras mientras se juega y especialmente a los niños, que lo pueden encontrar entretenido.
+- Orientado a todos los públicos, ya que se puede aprender sobre las cigarras mientras se juega y especialmente a los niños, que lo pueden encontrar entretenido y atractivo por su sencillez.
 
 
 
