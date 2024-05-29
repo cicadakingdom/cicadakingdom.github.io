@@ -119,7 +119,7 @@ Mi idea para el juego surgió debido a que había descubierto que este año, en 
 
 ### Etapa 3: Problemas identificados
 
-La mayoría de los errores se han ido corrigiendo, así que los que queden deben de ser mínimos. Se corrigió el error del código, que no se podía reiniciar al darle a jugar y el error del vídeo que se seguía reproduciendo si salías de la galería. También daba problemas en el juego de preguntas qeu los botones cambiaran de color al pasar el cursor por encima, por lo que se ha dejado para que solo cambien de color si los pulsas.
+La mayoría de los errores se han ido corrigiendo, así que los que queden deben de ser mínimos. Se corrigió el error del código, que no se podía reiniciar al darle a jugar y el error del vídeo que se seguía reproduciendo si salías de la galería. También daba problemas en el juego de preguntas que los botones cambiaran de color al pasar el cursor por encima, por lo que se ha dejado para que solo cambien de color si los pulsas.
 Al reproducir en el móvil sí que es cierto que no se reproduce el vídeo de la galería.
 
 
